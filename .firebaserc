@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "webparagraph-demo-sandbox-2313"
+  },
+  "targets": {
+    "webparagraph-demo-sandbox-2313": {
+      "hosting": {
+        "prod": [
+          "webparagraph-demo"
+        ],
+        "staging": [
+          "webparagraph-demo-staging"
+        ],
+        "sandbox": [
+          "webparagraph-demo-sandbox-2313"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

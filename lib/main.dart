@@ -20,7 +20,8 @@ class WebParagraphDemoApp extends StatelessWidget {
         fontFamily: 'Roboto', // Default font
         scaffoldBackgroundColor: const Color(0xFF0A0A0A),
         textTheme: const TextTheme(
-          displayLarge: TextStyle(fontSize: 32, fontWeight: FontWeight.bold, letterSpacing: -1),
+          displayLarge: TextStyle(
+              fontSize: 32, fontWeight: FontWeight.bold, letterSpacing: -1),
           bodyLarge: TextStyle(fontSize: 16, color: Color(0xFFCCCCCC)),
         ),
       ),
